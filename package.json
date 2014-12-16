@@ -1,0 +1,22 @@
+{
+    "name": "hubot-sshchat-cmds",
+    "version": "0.0.1",
+    "description": "hubot script for sshchat commands",
+    "author": "Chad Etzel <jazzychad@gmail.com>",
+    "dependencies": {
+
+    },
+    "main": "index.coffee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/user/hubot-sshchat-cmds.git"
+    },
+    "keywords": [
+        "hubot",
+        "sshchat"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    }
+}

@@ -19,5 +19,5 @@ module.exports = (robot) ->
     match = msg.match[1].toLowerCase()
     msg.reply("Try /" + match)
 
-  robot.hear /^(ls|rm|cat|cd|sudo|sh|bash)/, (msg) ->
+  robot.hear /^(ls|rm|cat|cd|sudo|bash)/, (msg) ->
     msg.reply("Pardon me, but this is a chat room... not a shell")

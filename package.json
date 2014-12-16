@@ -1,6 +1,6 @@
 {
     "name": "hubot-sshchat-cmds",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "hubot script for sshchat commands",
     "author": "Chad Etzel <jazzychad@gmail.com>",
     "dependencies": {
